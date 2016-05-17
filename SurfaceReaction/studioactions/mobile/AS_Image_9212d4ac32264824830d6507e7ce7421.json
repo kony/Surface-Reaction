@@ -1,0 +1,27 @@
+{
+    "AS_Image_9212d4ac32264824830d6507e7ce7421": {
+        "id": "AS_Image_9212d4ac32264824830d6507e7ce7421",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTouchStart_a9876886470246e2b56556151c913d05",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "surfaceReaction",
+            "display": "surfaceReaction",
+            "inputparams": [{
+                "name": "currentWidget",
+                "value": " eventobject.id"
+            }],
+            "callbackType": null
+        }]
+    }
+}
