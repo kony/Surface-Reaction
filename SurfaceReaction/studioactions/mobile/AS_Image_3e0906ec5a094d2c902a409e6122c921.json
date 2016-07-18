@@ -12,6 +12,7 @@
             "datatype": "string",
             "name": "y"
         }],
+        "language": "js",
         "actions": [{
             "id": "INVOKE_FUNCTION__ide_onTouchStart_b45a393c10e44d998d94bf2ce0b3bcf3",
             "type": "INVOKE_FUNCTION",

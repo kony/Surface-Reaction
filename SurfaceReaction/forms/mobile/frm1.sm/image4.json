@@ -19,11 +19,15 @@
         0,
         0
     ],
+    "_render_": true,
     "_skin_": "s2a8f2a45b544d47a8185ecd9c0e747d",
     "_src_": "dna.png",
     "_width_": {
         "type": "string",
         "value": "50%"
+    },
+    "android": {
+        "render": true
     },
     "canUpdateUI": true,
     "centerx": {
@@ -47,12 +51,30 @@
     "imagescalemode": 0,
     "info": null,
     "invokedProperty": "src",
+    "iphone": {
+        "render": true
+    },
     "isvisible": true,
     "kuid": "0d793155de1f4233a60574c4abb225db",
     "name": "kony.ui.Image2",
     "parent": "frm1",
     "pf": "frm1",
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
     "srcType": 1,
     "wType": "Image",
-    "widgetalignment": 5
+    "widgetalignment": 5,
+    "winphone8": {
+        "render": true
+    }
 }

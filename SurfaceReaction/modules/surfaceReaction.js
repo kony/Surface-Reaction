@@ -184,7 +184,7 @@ function animBlur() {
           
           "width":1,
           "height":1,
-          "opacity":0,          
+          "opacity":0.1,          
           "anchorPoint": {
                 "x": 0.5,
                 "y": 0.5
@@ -195,7 +195,7 @@ function animBlur() {
         60: {
           "width":diameter,
           "height":diameter,
-          "opacity":0.5,          
+          "opacity":1,          
           "anchorPoint": {
                 "x": 0.5,
                 "y": 0.5
@@ -204,7 +204,7 @@ function animBlur() {
     
     
         100:  {
-          "opacity":0
+          "opacity":0.1
         }       
      }
     animDef = kony.ui.createAnimation(animDefinitionOne);
