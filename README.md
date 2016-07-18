@@ -1,6 +1,8 @@
 # Surface-Reaction
 Application to show the surface reaction animation using kony animations.
 
+**What is Surface-Reaction ?**
+Ink ripples confirm user input by immediately expanding outward from the center of the widget the user has touched.
 
 **To Run This App for Kony Visualizer Enterprise:**
 
@@ -37,6 +39,7 @@ Cloud :
 
 # Supported platforms for Kony Visualizer Enterprise and Kony Visualizer
 **Mobile**
- * android
+ * Android
+ * Iphone
 
 
