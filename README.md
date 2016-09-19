@@ -42,6 +42,6 @@ Cloud :
  * Android
  * Iphone
  
-Certified4KonyCommunity7.1.1 
+CertifiedAtKonyCommunity
 
 
